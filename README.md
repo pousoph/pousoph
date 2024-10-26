@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Sophy
-- 👀 I’m interested in Fronted Development
+- 👀 I’m interested in Frontend Development
 - 🌱 I’m currently learning React
 - 😄 Pronouns: she/her
 <!---
