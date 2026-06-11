@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.gif" width="100%" alt="Sophy Banner"/>
+  <img src="./assets/banner-totoro.gif" width="100%" alt="Sophy Banner"/>
 </p>
 
 <h1 align="center">✨ Sophy Güiza ✨</h1>
